@@ -1,2 +1,2 @@
 # voulome
-Laberynthica
+Labyrinthica
